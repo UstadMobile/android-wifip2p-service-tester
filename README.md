@@ -14,8 +14,8 @@ Official Android documentation on WiFi P2P:
 [Android documentation](https://developer.android.com/training/connect-devices-wirelessly/nsd-wifi-direct.html)
 
 ## Screenshots
-![Screenshot1](images/screenshot2.png)
-![Screenshot12](images/screenshot1.png)
+![Screenshot1](images/demo_screenshot2.png)
+![Screenshot12](images/demo_screenshot1.png)
 
 
 
